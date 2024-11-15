@@ -11,5 +11,5 @@ Mi proyecto representa todo lo que hemos visto a lo largo de este módulo sin en
 - Publicación en GitHub Pages.
 
 ## Cómo desplegar el proyecto
-1. Abrir este enlace: [Práctica_Final](https://jplacaud.github.io/Pr-ctica7/)
+1. Abrir este enlace: [Práctica_Final](https://jplacaud.github.io/Pr-ctica_Final/)
 
